@@ -48,6 +48,7 @@ footer {
 .imgBox {
     
     width: 35%;
+    min-width: 180px;
 
     background-color: #FF00FF;
     
@@ -78,5 +79,7 @@ footer {
 #headImg {
     
     width: 60%;
+    min-height: 100px;
+    min-width: 258px;
     
 }
